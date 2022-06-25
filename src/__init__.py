@@ -1,2 +1,2 @@
 
-from src.RK4_Propagator import RK4_Propagator
+from RK4_Propagator.RK4_Propagator import RK4_Propagator
